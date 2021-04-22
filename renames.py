@@ -11,7 +11,6 @@
 import os
 import json
 import shutil
-from typing import List
 
 root = "/Volumes/BilibiliDownload"
 
