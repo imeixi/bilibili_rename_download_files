@@ -2,7 +2,6 @@
 # -*- coding:utf-8 -*-
 """
 @author:zhengaihua
-@E-mail:zhengaihua@jd.com
 @file: renames.py
 @time: 2021/4/22 13:00
 @desc:
@@ -13,6 +12,7 @@ import json
 import shutil
 
 root = "/Volumes/BilibiliDownload"
+
 
 if __name__ == '__main__':
     # 读取目录下所有文件/文件夹
